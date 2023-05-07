@@ -1,8 +1,6 @@
 
 @import 'variables';
 @import 'layout';
-
-
 @import 'button';
 @import 'card';
 @import 'footer';
@@ -11,6 +9,8 @@
 @import 'nav';
 @import 'containers';
 @import 'breadcrumb';
+@import 'card_small';
+@import 'icons';
 
 div.book-img {
     float: left;
